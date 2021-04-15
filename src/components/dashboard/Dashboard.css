@@ -1,0 +1,62 @@
+.row_menu{
+    width: 100%;
+}
+.col_menu{
+    text-align: center;
+}
+.top_row{
+    padding: 0 20%;
+}
+.link_button{
+    width: 100%;
+}
+.dashP{
+    
+    text-align: center;
+    
+}
+
+.text-aling-center{
+    text-align: center;
+}
+
+.table-responsive{
+    display: table;
+}
+.dashDiv{
+    
+    margin: 0 5%;
+  order: 1px solid gray;  
+}
+
+.dashDiv h1{
+    text-align: center;
+    padding: 5px 0;
+    color: gray;
+}
+.dashDiv .link{
+    
+    text-align: right;
+    padding: 5px 0;
+    color: gray;
+}
+.dashDiv .link a{
+    background: transparent;
+    border: 1px solid green;
+    padding: 5px ;
+    color: green;
+}
+
+.dashDiv .todolist{
+    padding: 2% 0;
+}
+.dashDiv .todolist h4{
+    color: hotpink;
+}
+.dashDiv .todolist table tr th{
+    border: 1px solid green;
+    color: gray;
+}
+.dashDiv .todolist table tbody tr{
+    background-color: rgba(99, 216, 128, 0.767);
+}

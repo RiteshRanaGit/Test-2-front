@@ -1,0 +1,12 @@
+.create-todo h1{
+    color: gray;
+} 
+
+.submitBtn{
+    background-color: transparent;
+    color: green;
+    border: 1px solid rgba(0, 128, 0, 0.6);
+}
+.form-control{
+    border: 1px solid rgba(213, 138, 223, 0.63);
+}
